@@ -18,7 +18,7 @@
     "graphql-tools": "^4.0.5",
     "graphql-yoga": "^1.18.1",
     "merge-graphql-schemas": "^1.7.0",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "typescript": "^3.5.3"
   },
   "devDependencies": {
